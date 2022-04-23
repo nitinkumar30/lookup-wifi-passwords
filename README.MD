@@ -3,6 +3,11 @@
 > Simple 10 liner python code which tells all the saved passwords in the system.  
 > Password should be saved in order to fetched by the script.  
 
+# Output
+
+![Output](https://user-images.githubusercontent.com/40369168/164936372-7d690bdf-101b-4aae-85bf-9e2250843d37.png)
+
+
 # Modules used
 
 1. subprocess
